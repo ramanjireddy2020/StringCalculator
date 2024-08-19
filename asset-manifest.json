@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/StringCalculator/static/css/main.f855e6bc.css",
-    "main.js": "/StringCalculator/static/js/main.bfb68a8a.js",
+    "main.css": "/StringCalculator/static/css/main.8c3a8716.css",
+    "main.js": "/StringCalculator/static/js/main.501ed4f5.js",
     "static/js/453.9819d916.chunk.js": "/StringCalculator/static/js/453.9819d916.chunk.js",
+    "static/media/calculator2.jpg": "/StringCalculator/static/media/calculator2.c48044cf145ba1fdf378.jpg",
     "index.html": "/StringCalculator/index.html",
-    "main.f855e6bc.css.map": "/StringCalculator/static/css/main.f855e6bc.css.map",
-    "main.bfb68a8a.js.map": "/StringCalculator/static/js/main.bfb68a8a.js.map",
+    "main.8c3a8716.css.map": "/StringCalculator/static/css/main.8c3a8716.css.map",
+    "main.501ed4f5.js.map": "/StringCalculator/static/js/main.501ed4f5.js.map",
     "453.9819d916.chunk.js.map": "/StringCalculator/static/js/453.9819d916.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.bfb68a8a.js"
+    "static/css/main.8c3a8716.css",
+    "static/js/main.501ed4f5.js"
   ]
 }
