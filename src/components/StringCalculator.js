@@ -34,7 +34,7 @@ const StringCalculator = () => {
       <Container maxWidth="sm">
         <Box mt={8} textAlign="center">
           <Typography variant="h4" gutterBottom>
-            String Calculator
+            String Calculator App
           </Typography>
           <TextField
             fullWidth
